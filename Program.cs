@@ -34,5 +34,19 @@ public int IntDivision(int left, int right)
 {
 return left / right;
 }
+public double Division(double left, double right)
+{
+return left / right;
+}
+public int Modulus(int left, int right)
+{
+
+
+return left % right;
+}
+public double SquareRoot(double x)
+{
+return Math.Sqrt(x);
+}
 }
 }
