@@ -14,3 +14,13 @@ Console.WriteLine($"The square root of 2 is
 }
 }
 }
+namespace LogChallenge.Calculator
+{
+public class Calculator
+{
+public int Add(int left, int right)
+{
+return left + right;
+}
+}
+}
