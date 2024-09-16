@@ -26,5 +26,13 @@ public int Subtract(int left, int right)
 {
 return left - right;
 }
+public int Multiply(int left, int right)
+{
+return left * right;
+}
+public int IntDivision(int left, int right)
+{
+return left / right;
+}
 }
 }
